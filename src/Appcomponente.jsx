@@ -10,7 +10,7 @@ const Appcomponente = () => {
   const [page, setPage] = useState(1); //Para que vaya sumando una pagina a medida que scrolleo
   const [loading, setLoading] = useState(false);
 
-  const apiKey = "n0c6NkXb4aSv0akhByXbyv-HJl1KkAVv8voqpdL4cFc";
+  const apiKey = "FlleJZCiIU9cEQG5R2jgv0erCcDhETdPi6ICYBYJ8OY";
   // useEffect(() => {
   //   photosAleatorias();
   // }, []);
